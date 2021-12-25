@@ -14,7 +14,7 @@
 [![](https://img.shields.io/badge/Facebook-breathbyte-darkblue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/breathbyte/)
 [![](https://img.shields.io/badge/Gmail-yaroslavliulka@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=white)](mailto:yaroslavliulka@gmail.com)
 [![](https://img.shields.io/badge/LinkedIn-yaroslav_lyulka-blue?logo=Linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/in/yaroslav-lyulka-481653196/)
-[![](https://img.shields.io/badge/Telegram-yaroslav_ljulka-blue?logo=Telegram&logoColor=blue&labelColor=white)](https://tg.me/yaroslav_ljulka/)
+[![](https://img.shields.io/badge/Telegram-yaroslav_liulka-blue?logo=Telegram&logoColor=blue&labelColor=white)](https://tg.me/yaroslav_liulka/)
 </p>
 
 <br>
@@ -66,14 +66,11 @@
 <br>
 
 
-### :zap: Github Stats
+<!--### :zap: Github Stats-->
 
-<img src="https://github-readme-stats.vercel.app/api?username=lyulka-yar&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Yaroslavs's Top Languages">
+<!--<img src="https://github-readme-stats.vercel.app/api?username=lyulka-yar&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Yaroslavs's Top Languages">-->
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 #### Thank You-🙏🏼
