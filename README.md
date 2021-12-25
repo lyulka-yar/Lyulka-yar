@@ -14,7 +14,7 @@
 [![](https://img.shields.io/badge/Facebook-breathbyte-darkblue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/breathbyte/)
 [![](https://img.shields.io/badge/Gmail-yaroslavliulka@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=white)](mailto:yaroslavliulka@gmail.com)
 [![](https://img.shields.io/badge/LinkedIn-yaroslav_lyulka-blue?logo=Linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/in/yaroslav-lyulka-481653196/)
-[![](https://img.shields.io/badge/Telegram-yaroslav\_liulka-blue?logo=Telegram&logoColor=blue&labelColor=white)](https://tg.me/yaroslav_liulka/)
+[![](https://img.shields.io/badge/Telegram-yaroslav_liulka-blue?logo=Telegram&logoColor=blue&labelColor=white)](https://tg.me/yaroslav_liulka/)
 </p>
 
 <br>
