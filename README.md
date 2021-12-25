@@ -78,4 +78,4 @@ No Activity tracked this Week
 
 #### Thank You-🙏🏼
 
-⭐️ From [Lyulka-yar](https://github.com/lyulka-yar)
+⭐️ From [Lyulka-yar](https://www.instagram.com/liulka_yaroslav/)
