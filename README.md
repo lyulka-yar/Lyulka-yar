@@ -66,9 +66,9 @@
 <br>
 
 
-### :zap: Github Stats
+<!--### :zap: Github Stats-->
 
-##<img src="https://github-readme-stats.vercel.app/api?username=lyulka-yar&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Yaroslavs's Top Languages">
+<!--<img src="https://github-readme-stats.vercel.app/api?username=lyulka-yar&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Yaroslavs's Top Languages">-->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
