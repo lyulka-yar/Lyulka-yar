@@ -72,7 +72,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 21 December, 2021 - 27 December, 2021
+
+JavaScript        10 hrs 14 mins  ███████████████████▓░░░░░   78.33 % 
+CSS               1 hr 34 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+GitIgnore file    39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Git Config        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+GitExclude file   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 ```
 <!--END_SECTION:waka-->
 
