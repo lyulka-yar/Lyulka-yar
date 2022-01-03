@@ -74,11 +74,11 @@
 ```text
 Week: 27 December, 2021 - 02 January, 2022
 
-JavaScript        15 hrs 16 mins  █████████████████████▓░░░   86.85 % 
-CSS               1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-GitIgnore file    35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-Git Config        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-GitExclude file   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+JavaScript        8 hrs 24 mins   ████████████████████░░░░░   79.78 % 
+CSS               1 hr 23 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+HTML              18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Git Config        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+GitExclude file   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 ```
 <!--END_SECTION:waka-->
 
