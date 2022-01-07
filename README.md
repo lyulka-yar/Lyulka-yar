@@ -74,9 +74,9 @@
 ```text
 Week: 31 December, 2021 - 06 January, 2022
 
-HTML         7 hrs 5 mins    ███████████░░░░░░░░░░░░░░   43.78 % 
-JavaScript   6 hrs 55 mins   ██████████▓░░░░░░░░░░░░░░   42.74 % 
-CSS          2 hrs 11 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+HTML         9 hrs 28 mins   █████████████▓░░░░░░░░░░░   54.24 % 
+JavaScript   5 hrs 46 mins   ████████▒░░░░░░░░░░░░░░░░   33.05 % 
+CSS          2 hrs 13 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 % 
 ```
 <!--END_SECTION:waka-->
 
