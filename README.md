@@ -74,9 +74,9 @@
 ```text
 Week: 02 January, 2022 - 08 January, 2022
 
-HTML         9 hrs 29 mins   ██████████▒░░░░░░░░░░░░░░   40.69 % 
-JavaScript   9 hrs 3 mins    █████████▓░░░░░░░░░░░░░░░   38.81 % 
-CSS          4 hrs 46 mins   █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+JavaScript   11 hrs 7 mins   ██████████▓░░░░░░░░░░░░░░   42.40 % 
+HTML         9 hrs 31 mins   █████████░░░░░░░░░░░░░░░░   36.27 % 
+CSS          5 hrs 35 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.28 % 
 ```
 <!--END_SECTION:waka-->
 
