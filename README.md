@@ -72,7 +72,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 January, 2022 - 03 February, 2022
+Week: 29 January, 2022 - 04 February, 2022
 
 SCSS   2 hrs 29 mins   ███████████████▒░░░░░░░░░   61.99 % 
 HTML   1 hr 27 mins    █████████░░░░░░░░░░░░░░░░   36.33 % 
