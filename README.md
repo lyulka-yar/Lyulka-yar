@@ -72,7 +72,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 January, 2022 - 06 February, 2022
+Week: 01 February, 2022 - 07 February, 2022
 
 TypeScript   8 hrs 52 mins   ██████████▒░░░░░░░░░░░░░░   41.18 % 
 HTML         6 hrs 52 mins   ████████░░░░░░░░░░░░░░░░░   31.94 % 
