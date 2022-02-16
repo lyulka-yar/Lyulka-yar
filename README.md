@@ -72,15 +72,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 February, 2022 - 15 February, 2022
-
-Total: 59 mins
-
-GitIgnore file    32 mins         ██████████████░░░░░░░░░░░   55.44 % 
-GitExclude file   8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-TypeScript        8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-HTML              7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-JSON              1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
