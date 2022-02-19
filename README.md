@@ -72,7 +72,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 12 February, 2022 - 18 February, 2022
+
+JavaScript   3 hrs 22 mins   ███████████▒░░░░░░░░░░░░░   45.94 % 
+HTML         1 hr 54 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.01 % 
+SCSS         1 hr 24 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.21 % 
+textmate     19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+JSON         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 ```
 <!--END_SECTION:waka-->
 
