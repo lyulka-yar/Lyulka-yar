@@ -72,13 +72,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-From: 17 February, 2022 - To: 24 February, 2022
+From: 18 February, 2022 - To: 25 February, 2022
 
-JavaScript   24 hrs 24 mins  ████████████████░░░░░░░░░   63.96 % 
-HTML         5 hrs 10 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-JSON         2 hrs 46 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-SCSS         2 hrs 43 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Markdown     1 hr 14 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+JavaScript   21 hrs 1 min    █████████████████░░░░░░░░   68.26 % 
+HTML         3 hrs 15 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+JSON         2 hrs 32 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+SCSS         1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Markdown     1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 ```
 <!--END_SECTION:waka-->
 
