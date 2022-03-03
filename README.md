@@ -73,14 +73,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 February 2022 - To: 01 March 2022
-
-JSON             1 hr 2 mins     ███████████▓░░░░░░░░░░░░░   46.45 %
-TypeScript       24 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.89 %
-JavaScript       22 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
-GitIgnore file   12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
-Markdown         9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-SourceMap        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
